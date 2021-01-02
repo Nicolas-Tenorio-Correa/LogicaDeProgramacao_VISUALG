@@ -1,5 +1,5 @@
 ====================
-     PROPOSTA:
+     PROPOSTA
 ====================
 
 SOLICITE DOIS NÚMEROS PARA O USUÁRIO MOSTRAR A SOMA ENTRE ELES.

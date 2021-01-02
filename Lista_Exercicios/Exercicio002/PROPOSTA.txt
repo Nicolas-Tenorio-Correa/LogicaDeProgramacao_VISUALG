@@ -1,0 +1,5 @@
+====================
+     PROPOSTA
+====================
+
+Calcular a média de um aluno obtida através de duas notas de trabalhos. Informar todos os valores. 

@@ -1,0 +1,7 @@
+====================
+     PROPOSTA
+====================
+
+Faça um programa para converter um valor em reais para dólares.
+
+OBS: Leve em consideração que R$ 1 = US$ 5.19
